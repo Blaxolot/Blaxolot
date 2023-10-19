@@ -1,7 +1,7 @@
 <h1>Hi there 🖐️</h1>
 
-<h4> I'm a developer, and I love to write code because I think that making your own application starting with 0 is something awesome and fun to do I'm using the M1 Macbook Pro, and I like to code in Visual Studio Code. For Terminal, I chose Warp, and I’m currently working on some basic projects like a web server or Discord bot. If you want to contact me, you can do it on Discord: blaxolot".
-</h4>
+<b> I'm a developer, and I love to write code because I think that making your own application starting with 0 is something awesome and fun to do I'm using the M1 Macbook Pro, and I like to code in Visual Studio Code. For Terminal, I chose Warp, and I’m currently working on some basic projects like a web server or Discord bot. If you want to contact me, you can do it on Discord: blaxolot".
+</b>
 
 <h1>Languages and Tools</h1>
 
